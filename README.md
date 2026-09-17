@@ -18,6 +18,14 @@ A simple weather forecast application built using **FastAPI, React.js, and OpenW
 * React.js
 * JavaScript
 * OpenWeather API
+  
+## Project Output
+
+### Home Page
+![Weather Forecast Home](weather-home.png)
+
+### Weather Result
+![Weather Forecast Output](weather-output.png)
 
 ### Author
 
