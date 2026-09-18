@@ -1,23 +1,38 @@
 # Weather Forecast
 
-A simple weather forecast application built using **FastAPI, React.js, and OpenWeather API**.
+## Approach
 
-### Features
+* Developed a weather forecast application using React.js and FastAPI.
+* Created a simple interface where users can enter a city name.
+* Used to handle API requests and get weather data.
+* Used React.js to display the weather information dynamically.
+* Connected the React frontend with the FastAPI backend.
+* Focused on creating a simple and user-friendly application.
 
-* Search weather by city
-* Temperature
-* Weather condition
-* Humidity
-* Wind speed
-* Error handling
-
-### Technologies
+## Tools and Technologies Used
 
 * Python
 * FastAPI
 * React.js
 * JavaScript
-* OpenWeather API
+* HTML
+* CSS
+* VS Code
+* Git & GitHub
+
+## Testing Scenarios
+
+* Tested the application with different city names.
+* Tested the search functionality.
+* Checked whether weather details were displayed correctly.
+* Tested empty and invalid city inputs.
+* Tested the connection between React and FastAPI.
+* Tested the project locally.
+
+## Project Outcome
+
+Successfully developed and tested a functional weather forecast application that displays weather information based on the city entered by the user.
+
   
 ## Project Output
 
@@ -29,4 +44,4 @@ A simple weather forecast application built using **FastAPI, React.js, and OpenW
 
 ### Author
 
-**Vanitha M S**
+Vanitha M S
